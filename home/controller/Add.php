@@ -1,7 +1,8 @@
 <?php
 namespace app\home\controller;
+use app\home\controller\Common;
 
-class Add
+class Add extends Common
 {
     public function index()
     {
